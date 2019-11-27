@@ -30,7 +30,7 @@ Enregistrement de la clé publique dans le compte sur github.com :
 Test de la connexion SSH avec github
 Activation des connexions SSH avec HTTP
 
-COURS :
+II COURS :
 
 Les bases de données 
 	avec installation de MySQL
