@@ -1,46 +1,82 @@
-TRAVAIL DU 18 AU 22 NOVEMBRE 2019
+TRAVAIL DU 25 AU 29 NOVEMBRE 2019.
+
+# VENDREDI 29 NOVEMBRE 2019
+
+## 9 H à 12 H 30
+-------------
+
+### ATELIER READTHEDOCS
+
+Installation de ReadTheDocs en local en suivant la procédure : 
+_https://docs.readthedocs.io/en/stable/development/install.html_
+	* Installation de ReadTheDocs : A
+	* Test : A
+	* Connexion en Admin A
+
+### ATELIERS
+
+	* GITHUB EAC
+	* TRELLO EAC
+https://www.youtube.com/watch?v=Gf47x50d254 : 
+	* L'ARBRE DE COMPETENCES EAC
+
+### DISCUSSIONS AVEC SAMBA
+sur le suivi de projet. EAC
+Conseil : rester pratique
+
+## 13 h 30 à 17 h 10 
+
+### ATELIER READTHEDOCS
+
+	* Compilation des dossiers avec GitHub : EAC
+	* Utilisation de MkDocs à la place de Sphinx car il demande un .rst et non un fichier .md.
+
+# JEUDI 28 NOVEMBRE 2019
+
+## 9 H à 12 H 30
+-------------
+
+### LA GESTION DE PROJET - 2
+
+Différence entre méthode classique et méthode agile
+
+	* Methode classique (Waterfall) : * avec un tableur, un google sheet : diagramme de GANTT (réseau Pert, MS Project)
+					  	
+	* Méthode agile (roadmap) : Trello
+
+pour faire un suivi en interne : TRELLO orienté utilisateur
+
+En externe, à la demande du client, un diagramme de Gantt peut être créer et proposer mais en interne, en mode agile, l'utilisation de Trello reste fortement recommandé. 
+
+ 
+## 13 h 30 à 17 h 10
+
+### Stand-Up OK
+
+### Veille
+
+#### Markdown
+
+C'est un langage de balisage simplifié.
+
+https://fr.wikipedia.org/wiki/Markdown
+https://michelf.ca/projets/php-markdown/syntaxe/
+
+#### Read the docs
+
+#### Trello
+	* Création d'un compte A
+	* roadmap ECA
+	* suivi ECA
+	* business ECA
+
+## 17 h 10 à 17 h 30
+
+Daily revew
+Stand up
 
 
-I PREPARATION ET INSTALLATION DES APPLICATIONS
+	
 
-UBUNTU
-Récupération d’un pc linux et vérification de l’environnement Ubuntu 18.04
 
-CHROME BROWSER
-Installation du  navigateur Chrome avec le terminal (en ligne de commande)
 
-GMAIL
-Création de l’adresse mail : amaria.boualam.data@gmail.com
-
-DISCORD
-Installation de Discord et 
-
-GIT
-Création d’un compte sur github
-Création d’un nouveau dépôt : « Hello world »
-Création de Git en local
-Git en local
-Installation de Git sur le pc 
-Clone du dépôt "hello-word" en local
-
-Vérification des clés SSH existantes (SSH Keys) présentes en local 
-Ajout les clés SSH (SSH Key) à ssh-agent
-Ajout notre clé SSH (SSH key)
-Enregistrement de la clé publique dans le compte sur github.com :
-Test de la connexion SSH avec github
-Activation des connexions SSH avec HTTP
-
-COURS :
-
-Les bases de données 
-	avec installation de MySQL
-Les requêtes avec :
-	Création d’une BDD : SIMPLON et intégration de la table « jeux_video.sql »
-	Exercices sur les requêtes 
-Python avec :
-	Installation d’Ancaconda et mise en pratique sur Jupyter Notebook (exercices)
-	Les listes, les boucles et les conditions sous Python
-Les algorithmes (Entrée, traitement, sortie) avec :
-	exercice : FETEKADO
-L’exploration des données : avec :
-	Exercices statistiques et graphiques# environnement
