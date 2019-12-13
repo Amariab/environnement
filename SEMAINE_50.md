@@ -1,5 +1,73 @@
 # SEMAINE DU 9 AU 13 DECEMBRE 2019
 
+## VENDREDI 13 DECEMBRE
+
+### DE 9 H 30 A 12 H 30
+
+#### RECAP DES OBJECTIFS
+
+##### Projet Micropousses
+dans micropousses_db_cadrage
+livrable pour mercredi 18/12 ===> agenda de google OK
+
+##### Evènement : FETEKADO
+pour lundi 16/12 
+
+5 personnes pour faire la présentation
+	- 1 pour faire la présentation générale de la formation et du projet.
+	- 2 (Inès et Sabine) :	- Présentation de l'algo en langage naturel
+				- Présentation et utilisation du script dans le terminal (demo)
+	- 2 (Yoan et Sacha) :	- Présentation et notion de listes et de boucles en python (librairie Pandasd)
+				- Présentation de l'interface (UX - UI)
+Les slides seront faits par Sabine.(5 pages)
+
+Récupérer la liste complète auprès d'Emmanuel R.
+Une fois, les démo effectuées, le tirage se fera en live.
+
+
+### DE 13 H 30 A 15 H 00
+
+
+
+
+
+				- 
+				- 
+
+------------------------------------------------------------------------------------------------------------------------
+## JEUDI 12 DECEMBRE
+
+### DE 9 H 30 A 12 H 30
+
+#### LE PAYSAN URBAIN
+
+Visite
+Préparation des groupes en vue de la préparation des questions que l'on va lui poser
+
+---> gestion des intrants
+
+Visite effectuée ==> Préparation du MCD
+
+### DE 13 H 30 A 17 H 30
+
+#### LE PAYSAN URBAIN
+
+Récapitulation
+
+note de cadrage (whitepaper, guideline) :
+
+	* https://www.manager-go.com/gestion-de-projet/dossiers-methodes/realiser-une-note-de-cadrage
+
+	* https://cdn.discordapp.com/attachments/644874859524128769/654702390032990208/note-de-cadrage-exemple.doc
+
+
+
+
+
+ 
+
+
+--------------------------------------------------------------------------------------------------------------------
 ## MERCREDI 11 DECEMBRE
 
 ### DE 9 H 30 A 12 H 30
@@ -142,10 +210,15 @@ Récapitulatif sur Google-sheet (reprogrammer les données sur G avec une api),
 
 avec Stephane, responsable du Var.
 
+#### W sur le projet : 
+A faire le trello pour demain
 
-
-
-
+TRELLO 
+Backlog : liste des tâches visite de la serre
+to do 
+work in progress
+Bug : ce qui attend
+done
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ## MARDI 10 DECEMBRE
