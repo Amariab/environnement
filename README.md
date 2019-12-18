@@ -44,3 +44,4 @@ L’exploration des données : avec :
 	Exercices statistiques et graphiques# environnement
 # ATELIERS
 # ATELIERS
+# ATELIERS
