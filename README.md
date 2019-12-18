@@ -18,9 +18,7 @@ Installation de Discord et
 GIT
 Création d’un compte sur github
 Création d’un nouveau dépôt : « Hello world »
-Création de Git en local
-Git en local
-Installation de Git sur le pc 
+Création de Git en local : Installation de Git sur le pc 
 Clone du dépôt "hello-word" en local
 
 Vérification des clés SSH existantes (SSH Keys) présentes en local 
@@ -44,3 +42,4 @@ Les algorithmes (Entrée, traitement, sortie) avec :
 	exercice : FETEKADO
 L’exploration des données : avec :
 	Exercices statistiques et graphiques# environnement
+# ATELIERS
