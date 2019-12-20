@@ -1,6 +1,38 @@
 # SEMAINE DU 16 AU 20 DECEMBRE 2019
 
+## VENDREDI 20 DECEMBRE
+
+### DE 9 H 30 A 12 H 30
+
+#### ATELIER METHODE AGILE
+Rajout "Methode Agile" sur Trello
+
+#### APPRENDRE GIT
+
+https://www.youtube.com/watch?v=chhVBZfRFgI&list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP&index=5
+
+Comprendre Git (5/18) : Premiers commits
+
+	- Création d'un dossier "projet" avec mkdir nom du fichier (ex : projet) 
+	- Initialisation du dossier "projet" avec Git init pour pouvoir effectuer le versionning sur Git
+		- Création d'un dossier "caché" : .git
+### DE 13 H 30 A 15 H 
+
+#### REVISION TRELLO
+Avec Jonathan MICHEL
+---------------------------------------------------------------------------------------------------------------------
+
 ## JEUDI 19 DECEMBRE
+
+### DE 9 H 30 A 12 H 30
+
+Création d'un dossier PROJETS sur Github
+Envoi de la brief et de la lettre de cadrage dans le sous-dossier "micropousses"
+Envoi du MCD et MLD sur Github
+
+Travail sur le Trello : Arbre de competences et Stage (dec, janv ,fev)
+piste pour le stage et le restaurant solidaire :
+===> http://mouves.org/actu-paca/marseille-place-a-linnovation-sociale/
 
 ### DE 14 H A 16 H 45
 
