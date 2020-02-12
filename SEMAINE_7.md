@@ -19,7 +19,6 @@ MERCREDI 12 FEVRIER 2020
 
 
 
-___________________________________________________________________________________________________________________________________________________________
 
 MARDI 11 FEVRIER 2020
 ---------------------
@@ -38,7 +37,7 @@ MARDI 11 FEVRIER 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~
 - Cours : les fonctions d'agrégation
 
-- **Mise en pratique :**
+- Mise en pratique :
 
 Afficher le nb de films dans lesquels a jouer "Johnny LOLLOBRIGIDA" regroupé par catégorie.
 
