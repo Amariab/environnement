@@ -11,7 +11,6 @@ MERCREDI 12 FEVRIER 2020
 	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python (4 groupes  + Python pm Hachem)
  	- Bootcamp : SQL, requêtes simples
 	-
-__________________________________________________________________________________________________________________________________________________________
 
 
 - GitHub : push "Semaine_7.md" : OK
