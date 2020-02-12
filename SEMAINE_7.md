@@ -9,13 +9,12 @@ MERCREDI 12 FEVRIER 2020
 
 - Feuille de route :
 
-	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python  (4 groupes  + Python pm Hachem)
-
-	- Bootcamp : SQL, requêtes simples
+Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python  (4 groupes  + Python pm Hachem)
+Bootcamp : SQL, requêtes simples
 
 - GitHub : push "Semaine_7.md" : OK
 
-- Etude MANAGEO
+- Etude **MANAGEO**
 
 
 
