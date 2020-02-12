@@ -5,7 +5,7 @@ MERCREDI 12 FEVRIER 2020
 ------------------------
 
 **DE 9 H A 12 H 30**
-~~~~~~~~~~~~~~~~~~~~
+
 
 - Feuille de route :
 	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python (4 groupes  + Python pm Hachem)
@@ -23,8 +23,7 @@ MERCREDI 12 FEVRIER 2020
 MARDI 11 FEVRIER 2020
 ---------------------
 
-**DE 9 H A 12 H 30**
-~~~~~~~~~~~~~~~~~~~~
+
 
 - ATELIER : Recherche de stage avec Cécile.
 
@@ -34,7 +33,7 @@ MARDI 11 FEVRIER 2020
 
 
 **DE 13 H 30 A 17 H 30**
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 - Cours : les fonctions d'agrégation
 
 - Mise en pratique :
@@ -47,7 +46,7 @@ LUNDI 10 FEVRIER 2020
 ---------------------
 
 **DE 9 H A 12 H 30**
-~~~~~~~~~~~~~~~~~~~~
+
 
 - **Sebastien BORIES** cma/cgm Développeur data
 
@@ -143,7 +142,7 @@ Les métadonnées : rajouter une colonne sur toutes les tables après les avoir 
 Schedulers / jobs ==> tâches planifiées. Ex : maj journalière
 
 **DE 13 H 30 A 17 H 30**
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 - ATELIER SUR LA BD sakila
 https://datamastery.gitlab.io/exercises/sakila-queries.html
