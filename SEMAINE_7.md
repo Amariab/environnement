@@ -8,15 +8,19 @@ MERCREDI 12 FEVRIER 2020
 ~~~~~~~~~~~~~~~~~~~~
 
 - Feuille de route :
+	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python (4 groupes  + Python pm Hachem)
+ 	- Bootcamp : SQL, requêtes simples
+	-
 
-Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python  (4 groupes  + Python pm Hachem)
-Bootcamp : SQL, requêtes simples
+
 
 - GitHub : push "Semaine_7.md" : OK
 
 - Etude **MANAGEO**
 
 
+
+___________________________________________________________________________________________________________________________________________________________
 
 MARDI 11 FEVRIER 2020
 ---------------------
@@ -39,7 +43,7 @@ MARDI 11 FEVRIER 2020
 
 Afficher le nb de films dans lesquels a jouer "Johnny LOLLOBRIGIDA" regroupé par catégorie.
 
-
+_________________________________________________________________________________________________________________________________________________________
 
 LUNDI 10 FEVRIER 2020
 ---------------------
