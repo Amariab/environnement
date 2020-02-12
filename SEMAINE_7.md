@@ -1,10 +1,29 @@
 SEMAINE 7
 =========
 
+MERCREDI 12 FEVRIER 2020
+------------------------
+
+**DE 9 H A 12 H 30**
+~~~~~~~~~~~~~~~~~~~~
+
+- Feuille de route :
+
+	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python  (4 groupes  + Python pm Hachem)
+
+	- Bootcamp : SQL, requêtes simples
+
+- GitHub : push "Semaine_7.md" : OK
+
+- Etude MANAGEO
+
+
+
 MARDI 11 FEVRIER 2020
 ---------------------
 
-###**DE 9 H A 12 H 30**###
+**DE 9 H A 12 H 30**
+~~~~~~~~~~~~~~~~~~~~
 
 - ATELIER : Recherche de stage avec Cécile.
 
@@ -13,8 +32,8 @@ MARDI 11 FEVRIER 2020
   Adresse mail sur Simpblonline : amaria.boualam.data@gmail.com
 
 
-###**DE 13 H 30 A 17 H 30**###
-
+**DE 13 H 30 A 17 H 30**
+~~~~~~~~~~~~~~~~~~~~~~~~
 - Cours : les fonctions d'agrégation
 
 - **Mise en pratique :**
@@ -26,7 +45,8 @@ Afficher le nb de films dans lesquels a jouer "Johnny LOLLOBRIGIDA" regroupé pa
 LUNDI 10 FEVRIER 2020
 ---------------------
 
-###**DE 9 H A 12 H 30**###
+**DE 9 H A 12 H 30**
+~~~~~~~~~~~~~~~~~~~~
 
 - **Sebastien BORIES** cma/cgm Développeur data
 
@@ -121,8 +141,8 @@ Les métadonnées : rajouter une colonne sur toutes les tables après les avoir 
 
 Schedulers / jobs ==> tâches planifiées. Ex : maj journalière
 
-
-###**DE 13 H 30 A 17 H 30**###
+**DE 13 H 30 A 17 H 30**
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 - ATELIER SUR LA BD sakila
 https://datamastery.gitlab.io/exercises/sakila-queries.html
