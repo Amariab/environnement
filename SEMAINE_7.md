@@ -1,6 +1,35 @@
 SEMAINE 7
 =========
 
+VENDREDI 14 FEVRIER 2020
+========================
+
+**DE 9 H A 12 H 30**
+**DE 13 H A 15 H**
+
+- Lettre de motivation et CV pour STUDIA
+
+- Dépôt de la LM et du CV sur le drive dans le dossier STUDIA OK
+
+
+JEUDI 13 FEVRUER 2020
+---------------------
+
+**DE 9 H A 12 H 30**
+
+- Feuille de route :
+	- Bootcamp : Python, type de données, instructions, fonctions, structures conditionnelles, itératives / Update Read The Doc -Section Python (4 groupes  + Python pm Hachem)
+ 	- Bootcamp : SQL, requêtes simples , filtres, fonctions, jointures, / Update Read The Doc (gr +sql pm : Ludovic)
+	 Mise à jour du profil Linkedin avec réussite de la compétence Excel et obtention d'un badge. OK
+	- Events : Meetup Read The Docs ce soir (Hachem, Inès, Daniel)/ Présentation des slides
+	- Wokdshop : Manageo (3 p : Xavier, pm, Inès, Romain) / Call à 10 H : OK ==> Echanges par mail pour faire évoluer le projet.
+
+**DE 13 H 30 A 17 H 30**
+
+- lettre de motivation
+- CV de dév data 
+
+
 MERCREDI 12 FEVRIER 2020
 ------------------------
 
@@ -16,8 +45,6 @@ MERCREDI 12 FEVRIER 2020
 - GitHub : push "Semaine_7.md" : OK
 
 - Etude **MANAGEO**
-
-
 
 
 MARDI 11 FEVRIER 2020
