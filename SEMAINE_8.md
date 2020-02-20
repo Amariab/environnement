@@ -1,8 +1,29 @@
 SEMAINE 8
 =========
 
+JEUDI 20 FEVRIER 2020
+---------------------
+
+**DE 9 H A 12 H 30**
 
 
+
+MERCREDI 19 FEVRIER 2020
+------------------------
+
+**DE 9 H A 12 H 30**
+
+- Feuille de route :
+ 	- Bootcamp : SQL, requêtes simples , filtres, fonctions, jointures, / Update Read The Doc (gr +sql pm : Ludovic)
+	- Workshop : Manageo / Demande client, roadmap (3 p : Xavier, pm, Inès, Romain) / présentation, update note de cadrage : inerviews client (Yoann, pm, Ludovic, DjCall à 10 H : OK ==> Echanges par mail pour faire évoluer le projet.oumbé) livrable : Google sheets, questionnaire/ Audit tech (Yacine, pmm, Hachem, Joshua) , livrable : Google sheets, questionnnaire
+	- Veille: rgpd 'Sabine, Sacha)  / Flask (Joshua, Lofti)  / Scrum (Inès, Romain)
+	- Events : CSV jeudi 19/02 (Amaria)/ Présentation des slides
+
+**DE 13 H 30 A 17 H 30**
+
+- Bootcamp sur sql et python
+
+- Préparation du meetup sur le fichier csv avec Samba
 
 
 
@@ -10,6 +31,7 @@ MARDI 18 FEVRIER 2020
 ---------------------
 
 **DE 9 H A 12 H 30**
+
 **DE 13 H 30 A 17 H 30**
 
 - Evaluation de Rafik
