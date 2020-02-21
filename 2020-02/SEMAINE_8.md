@@ -17,9 +17,9 @@ VENDREDI 21 FEVRIER 2020
 
 - Ltr de motivation générale envoyée à Sabine pour le mettre sur un tableau
 
-  
+**DE 13 H 30 A 15 H**
 
-
+Envoi de demandes de stages via Internet ou par email : OK
 
 
 JEUDI 20 FEVRIER 2020
