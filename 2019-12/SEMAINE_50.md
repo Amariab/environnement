@@ -21,8 +21,33 @@ pour lundi 16/12
 				- Présentation de l'interface (UX - UI)
 Les slides seront faits par Sabine.(5 pages)
 
+	- Projet sur : https://github.com/Ludo-R/FeteKDO-Project
+	master branch -> Projet Terminal
+	tkinter branch -> Projet Interface
+
 Récupérer la liste complète auprès d'Emmanuel R.
 Une fois, les démo effectuées, le tirage se fera en live.
+
+#### RETARDS
+
+Inscription Mode.com https://mode.com
+
+Inscription Google Collab https://colab.research.google.com
+Inscription Geogebra http://www.Geogebra.org
+Inscription StackOverFlow http://www.StackOverFlow.com
+
+Git : faire une fiche.
+
+A => Push d'un fichier en ligne
+
+	git status
+	git add "nom du fichier"
+	git commit -m "commentaire"
+	git push origin master
+A => Installer & Configurer GIT en Local via Terminal Ubuntu
+
+	sudo apt-get update
+	sudo apt-get install git
 
 
 ### DE 13 H 30 A 15 H 00
@@ -59,13 +84,6 @@ note de cadrage (whitepaper, guideline) :
 	* https://www.manager-go.com/gestion-de-projet/dossiers-methodes/realiser-une-note-de-cadrage
 
 	* https://cdn.discordapp.com/attachments/644874859524128769/654702390032990208/note-de-cadrage-exemple.doc
-
-
-
-
-
- 
-
 
 --------------------------------------------------------------------------------------------------------------------
 ## MERCREDI 11 DECEMBRE

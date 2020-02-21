@@ -1,3 +1,58 @@
+
+# JEUDI 5 DECEMBRE 2019
+Travail à la maison en raison de la grève générale à  propos des nouvelles dispositions créées pour la loi sur les retraites.
+
+## 9 H A 12 H 30
+
+### REPRISE DES COURS DE LA SEMAINE 48 ET 49
+
+
+
+
+
+
+# MERCREDI 4 DECEMBRE 2019
+
+## 9 H A 12 H 30
+
+### DISCUSSION MISE AU POINT SUR LES ACQUIS APPRIS
+
+	* Python (
+	* Pandas
+	* les algorithmes (workflow ou diagramme, et pseudo-code (Tant que vrai,si ..., alors, sinon ...) ---> pour exprimer le besoin et pour pouvoir communiquer.
+	* Gestion de projets
+	* Veille technologique sur les algorithmes
+
+https://fr.wikipedia.org/wiki/Algorithmique
+
+http://pise.info/algo/introduction.htm
+
+https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA
+
+### INSTALLATION DE DISCORD SUR MON TELEPHONE PORTABLE
+
+Vérification et installation : A
+
+## 13 H 30 A 17 H 30
+
+### FINALISATION DE L'INSTALLATION DE READTHEDOCS
+
+	* https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html
+	* Installation de MkDocs et tests : OK
+	* Installation de Sphinx
+
+### ATELIER MISE A JOUR
+
+	* Ubuntu avec apt install
+	* Python avec pip install
+	* Docker 
+	* sql
+
+### ECHEANCE POUR VENDREDI
+
+	* Roadmap sur 3 mois (déc, janv, fév) avec Trello.
+
+------------------------------------------------------------------------------------------
 # MARDI 3 DECEMBRE 2019
 
 ## 9 H A 12 H 30
@@ -77,7 +132,7 @@ Le seul SGBDR a ne pas se conformer à la notion de schéma est MySQL.
 Elles s'appellent elles-mêmes 
 Avantage : elles font des boucles.
 
-
+-------------------------------------------------------------------------------------------
 # LUNDI 2 DECEMBRE 2019
 
 ## 9 H A 12 H 30

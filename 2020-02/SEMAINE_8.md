@@ -15,6 +15,8 @@ VENDREDI 21 FEVRIER 2020
 
 - Recherche de stages avec S
 
+- Ltr de motivation générale envoyée à Sabine pour le mettre sur un tableau
+
   
 
 
