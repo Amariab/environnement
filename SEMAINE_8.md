@@ -1,6 +1,21 @@
 SEMAINE 8
 =========
 
+VENDREDI 21 FEVRIER 2020
+------------------------
+
+**DE 9 H A 12 H 30**
+
+- Feuille de route :
+ 	- Bootcamp : SQL, requêtes simples , filtres, fonctions, jointures, / Update Read The Doc (gr +sql pm : Ludovic)
+	- Workshop : Manageo / Demande client, roadmap (3 p : Xavier, pm, Inès, Romain) / présentation, update note de cadrage : intrviews client (Yoann, pm, Ludovic, Djoumbé à 10 H : OK ==> Echanges par mail pour faire évoluer le projet.oumbé) livrable : Google sheets, questionnaire/ Audit tech (Yacine, pmm, Hachem, Joshua) , livrable : Google sheets, questionnnaire
+	- Veille: rgpd (Sabine, Sacha)  / Flask (Joshua, Lofti)  / Scrum (Inès, Romain)
+	- Events : CSV jeudi 27/02 (Amaria et Xavier )/ Présentation des slides / mail Manageo
+
+
+
+
+
 JEUDI 20 FEVRIER 2020
 ---------------------
 
@@ -10,10 +25,13 @@ JEUDI 20 FEVRIER 2020
  	- Bootcamp : SQL, requêtes simples , filtres, fonctions, jointures, / Update Read The Doc (gr +sql pm : Ludovic)
 	- Workshop : Manageo / Demande client, roadmap (3 p : Xavier, pm, Inès, Romain) / présentation, update note de cadrage : intrviews client (Yoann, pm, Ludovic, Djoumbé à 10 H : OK ==> Echanges par mail pour faire évoluer le projet.oumbé) livrable : Google sheets, questionnaire/ Audit tech (Yacine, pmm, Hachem, Joshua) , livrable : Google sheets, questionnnaire
 	- Veille: rgpd (Sabine, Sacha)  / Flask (Joshua, Lofti)  / Scrum (Inès, Romain)
-	- Events : CSV jeudi 19/02 (Amaria et Xavier )/ Présentation des slides / mail Manageo
+	- Events : CSV jeudi 27/02 (Amaria et Xavier )/ Présentation des slides / mail Manageo
 
+**DE 13 H 30 A 17 H 30**
 
+- Préparation du meetup du jeudi 27/02 avec Samba
 
+- Préparation CV et LM  et recherche d'entreprises ==> Envois d'email. OK
 
 
 MERCREDI 19 FEVRIER 2020
